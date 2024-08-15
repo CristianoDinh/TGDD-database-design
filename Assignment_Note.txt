@@ -1,0 +1,26 @@
+*TRUNCATE TABLE*: Xóa hết dữ liệu trong TABLE mà ko xóa TABLE
+
+Use Case: 
+Sử dụng View cho các truy vấn đọc dữ liệu đơn giản hoặc tổng hợp. 
+Stored Procedures phù hợp cho các tác vụ phức tạp, bao gồm logic ứng dụng và xử lý lỗi. 
+Functions hữu ích cho các tính toán tái sử dụng trong các truy vấn.
+
+
+------------- VIEW -------------
+Khi nào sử dụng: Khi bạn muốn cung cấp một góc nhìn tổng hợp hay tùy chỉnh của dữ liệu, ẩn đi sự phức tạp hoặc bảo mật cấu trúc bảng gốc.
+
+
+
+
+
+------------- STORED PROCEDURE -------------
+Khi bạn cần thực thi một nhóm các lệnh SQL phức tạp với các biến, điều kiện lựa chọn, vòng lặp và hỗ trợ xử lý lỗi.
+
+
+
+
+-------------------  FUNCTION -------------
+ Khi bạn cần thực hiện các tính toán, chuyển đổi dữ liệu, hoặc truy vấn dữ liệu mà kết quả có thể sử dụng như một phần của truy vấn SQL.
+
+
+------------- TRIGGER -------------
