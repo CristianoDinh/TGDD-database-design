@@ -1,3 +1,5 @@
+
+
 <!-- Step1: TITLE & SUBTITLE -->      
 # An End-to-End DATABASE Design of Real TGDD Website with Microsoft SQL Server Management System.
 🔎 For more information, visit [The Gioi Di Dong](https://www.thegioididong.com/) .
@@ -51,8 +53,32 @@ This tutorial is still ongoing. The automation of the helm chart repo has not be
 
 <!-- Step8: BEG FOR MONEY -->
 ## Like this project?
-If you are felling generous, buy me a coffe! - (link)
+### ☕ If you are feeling generous, buy me a coffee!  
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
+<!-- Left Side: Small Payment Icons -->
+<div style="width: 45%;">
+  
+- <img src="https://github-storing.s3.ap-southeast-1.amazonaws.com/momo-logo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAYQNJS4ZYXRNF2WVP%2F20250213%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250213T084122Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkgwRgIhAKUHSlBwTKmmFtadsXuNzA97Frz8rlC1%2Fywo%2B3YhZVMxAiEA0bcdEMl9%2BlDmGTG9G4I0jprDp%2BHV7TqM897CqGJGDkkq7AIIEhAAGgw1ODUwMDgwODA0OTciDNRwqy%2Fo8gHMbRyOISrJAoPF0%2B9naE3SeHCelzmKaEsiYYKyRaThjJ8B6PIlf90e7Hm7%2BCTQSusIracN7tTtTC1LLuGHBGn9SFFg4kMppYzjiGRaZmUuDsykbhQ93XpfNAbh%2Fsg%2FIwtiAjLcwr0lHYhq6i%2FkmFSr9V1nnEjdPEXAOvYqAYQdXcRSSLIccDR5OKSrwsnP2QqyVL%2FfZBpTk8oI988l4okkDvU8AdqslAiTaBWT9PVEdVkQPG3qzuo0vVA%2BFbKVUCoaFdI77N5%2FSPo6Vmr7PqRbm7jmZIQb5DJIwmebywlyE5VuoskgCfwqgp02ddWXfzcL%2BBxPg%2FOjysX7HTL5dL8vNHQJl7Gab%2FK8p%2F3ETxg6rv9iLTiVdro3u7kNmVFdMeSUp33xqaBs6ddwgQXuZe48REkeTED64unyX4ljJvJTBKkLTldYquGTfDKpKyWbzbuEMIG2tr0GOrICYCthoqC5QiP4GXmxHHNnO3ENdAjnrSmG0qcdPbUwZIkgP9HAbyIsWhEzfFSM%2BjSNowb2SAuLBLkgCnVvUg2lYE%2FbUnqFWZ1Bi%2BqvXmu3VP4ly39qkJpvHwc%2F%2B9mMX6RBkr8NDvvlUQbYSOmUgbSMaKsDejaCGkenqyU41nLFYRw%2B%2Fl7v3aD86lCvDa%2FvsMfGRSgxBSf5%2B9IiLmKT6O%2BNJyIhrNv3QGlf7TnfH1nWdsFOIp43cFocxDWywzHlzVzsz%2BvcW614eQKKcG%2BvLoYqiCTO%2BI7GshZJroApfarGfLithU57k0cpXus8J01b2aq0sz718KucauKlq6pAvlq8GOk80D%2BhJVkTsqbe6k%2FGjbi8ypp%2B0jHqbCIDU1uteThLMemwIV1VxcCP4VZCN3%2B6Rk3k&X-Amz-Signature=be980237512b843201b4cdf4961f214fd5e77edb121b66ff303fe29843e5acb8&X-Amz-SignedHeaders=host&response-content-disposition=inline" alt="MOMO Icon" width="20"/> [Donate via MOMO](https://me.momo.vn/j8I5Tbsoi9uMtgfdTXUPf5)  
+
+- <img src="" alt="Paypal Icon" width="20"/> [Donate via PayPal](linkB)
+ 
+- <img src="" alt="Crypto Icon" width="20"/> [Donate via Crypto](linkC)  
+
+</div>
+
+<!-- Right Side: Large MOMO QR -->
+<div style="width: 50%; text-align: center;">
+  
+<a href="https://me.momo.vn/j8I5Tbsoi9uMtgfdTXUPf5" target="_blank">
+  <img src="https://github-storing.s3.ap-southeast-1.amazonaws.com/momo-qr.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAYQNJS4ZYXRNF2WVP%2F20250213%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250213T084418Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkgwRgIhAKUHSlBwTKmmFtadsXuNzA97Frz8rlC1%2Fywo%2B3YhZVMxAiEA0bcdEMl9%2BlDmGTG9G4I0jprDp%2BHV7TqM897CqGJGDkkq7AIIEhAAGgw1ODUwMDgwODA0OTciDNRwqy%2Fo8gHMbRyOISrJAoPF0%2B9naE3SeHCelzmKaEsiYYKyRaThjJ8B6PIlf90e7Hm7%2BCTQSusIracN7tTtTC1LLuGHBGn9SFFg4kMppYzjiGRaZmUuDsykbhQ93XpfNAbh%2Fsg%2FIwtiAjLcwr0lHYhq6i%2FkmFSr9V1nnEjdPEXAOvYqAYQdXcRSSLIccDR5OKSrwsnP2QqyVL%2FfZBpTk8oI988l4okkDvU8AdqslAiTaBWT9PVEdVkQPG3qzuo0vVA%2BFbKVUCoaFdI77N5%2FSPo6Vmr7PqRbm7jmZIQb5DJIwmebywlyE5VuoskgCfwqgp02ddWXfzcL%2BBxPg%2FOjysX7HTL5dL8vNHQJl7Gab%2FK8p%2F3ETxg6rv9iLTiVdro3u7kNmVFdMeSUp33xqaBs6ddwgQXuZe48REkeTED64unyX4ljJvJTBKkLTldYquGTfDKpKyWbzbuEMIG2tr0GOrICYCthoqC5QiP4GXmxHHNnO3ENdAjnrSmG0qcdPbUwZIkgP9HAbyIsWhEzfFSM%2BjSNowb2SAuLBLkgCnVvUg2lYE%2FbUnqFWZ1Bi%2BqvXmu3VP4ly39qkJpvHwc%2F%2B9mMX6RBkr8NDvvlUQbYSOmUgbSMaKsDejaCGkenqyU41nLFYRw%2B%2Fl7v3aD86lCvDa%2FvsMfGRSgxBSf5%2B9IiLmKT6O%2BNJyIhrNv3QGlf7TnfH1nWdsFOIp43cFocxDWywzHlzVzsz%2BvcW614eQKKcG%2BvLoYqiCTO%2BI7GshZJroApfarGfLithU57k0cpXus8J01b2aq0sz718KucauKlq6pAvlq8GOk80D%2BhJVkTsqbe6k%2FGjbi8ypp%2B0jHqbCIDU1uteThLMemwIV1VxcCP4VZCN3%2B6Rk3k&X-Amz-Signature=b0b84941b4dc5379bf8fc65abce07fee45c1fb013671d7715b3d9c373ed220e7&X-Amz-SignedHeaders=host&response-content-disposition=inline" alt="MOMO QR" width="150" height="150"/>
+</a>  
+<a href="" target="_blank">
+  <img src="https://github-storing.s3.ap-southeast-1.amazonaws.com/mb-bank-qr.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAYQNJS4ZYQ7JKA63U%2F20250213%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250213T090859Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkgwRgIhAO8f8RR1Hj%2B85clL%2BSP%2BlOce6RqKCgQUvyTugQr6Jhz1AiEAnAOshWUntV197F7zWiC2OkINhCEQ8n0p2YpxL%2FxVyQ8q7AIIEhAAGgw1ODUwMDgwODA0OTciDHt9nl1IfewktOD3qSrJAm%2FLyL0OLmYomPsQKPdeEYIrswlm1DeXNwwGGetVqLy5zQyQtb9sgsGD3pJ7Y0f8jP2aSMxrkPpxz1%2FyQCZ112dD72NxIgOgwqnXdWrPox%2Ftmjy6zPnRN8Yeko7JieTAhlkRMuyj8uZfvFhLJHRvNkddDFxfV%2BrfQNV9TkxveHQl7MjgJvnqz2ELUfPOp9dguwN0%2Fa%2FImO6R6naALWVV6VxwsK01XSi2tVK78ZA0B53O%2BPSqypeOV0O%2BNMPN2dInuKvKXDY8mzBbNokHqZBIBmUZnPmsHjdBIvwOIdwo95pPIqAWBDVpAtNnjZSKhVV4cdGmg1%2BiG5STWAouGjVFh1tFOwon1nlGRuYtOWZwAMr5qR6kfTLIPpmAb1BHR4Y5Fq5ht2SW6FfsAZjw%2FAzWKugqiKxhbHJENiM0LsHOEGpJyvYRLbWC8trOMIG2tr0GOrICrApcmMEo9aubEz3x6vdjno25rP%2BpIxKcvQ1YLgjVHmNw9x%2FRMfJCyNeAlpqaYh6X8bFvyxAHOft1kuvmzeKmCxx44NV4b347kCdxLDOYFWZVcNIrq8E%2F1Qk855%2FZfc2fA%2FRxAIqJH4ruQ7ZIzMNJKeMzcBqiUTPdATez7KgrIzfTHXD9suJlhlJrHdSfqOSo0a2dLzc5iCVgkucQ9gs4uxnzM8XH7qkNKgvjui51GQ8NJF1txTG5ihDc1sHpxCyTteBrjigUD2NIYMWsF7O9oUWEXFpHakOs3Kvr%2FqXSJsf02GsQzHhQiogtMDjB7dlQIRUztrl6xcsmsqdR8beSpZXEtk3e0UJ0%2FRsMI6wWoWuo9r4zu6GpmyeuR%2FrenwpdZgR%2FIocQKJCdJbHBwY%2Bd4ahf&X-Amz-Signature=841c6d3ff08f0f735d8cd8e2aefdc1ce31eba290ee9d37fc6e9a73770755d613&X-Amz-SignedHeaders=host&response-content-disposition=inline" alt="MB Bank QR" width="150" height="150"/>
+</a>
+</div>
+
+</div>
 
 
